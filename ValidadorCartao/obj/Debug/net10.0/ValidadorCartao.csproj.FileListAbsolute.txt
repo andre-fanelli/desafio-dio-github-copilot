@@ -1,0 +1,15 @@
+D:\Andre\Projetos\DIO\desafio-dio-github-copilot\ValidadorCartao\bin\Debug\net10.0\ValidadorCartao.exe
+D:\Andre\Projetos\DIO\desafio-dio-github-copilot\ValidadorCartao\bin\Debug\net10.0\ValidadorCartao.deps.json
+D:\Andre\Projetos\DIO\desafio-dio-github-copilot\ValidadorCartao\bin\Debug\net10.0\ValidadorCartao.runtimeconfig.json
+D:\Andre\Projetos\DIO\desafio-dio-github-copilot\ValidadorCartao\bin\Debug\net10.0\ValidadorCartao.dll
+D:\Andre\Projetos\DIO\desafio-dio-github-copilot\ValidadorCartao\bin\Debug\net10.0\ValidadorCartao.pdb
+D:\Andre\Projetos\DIO\desafio-dio-github-copilot\ValidadorCartao\obj\Debug\net10.0\ValidadorCartao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andre\Projetos\DIO\desafio-dio-github-copilot\ValidadorCartao\obj\Debug\net10.0\ValidadorCartao.AssemblyInfoInputs.cache
+D:\Andre\Projetos\DIO\desafio-dio-github-copilot\ValidadorCartao\obj\Debug\net10.0\ValidadorCartao.AssemblyInfo.cs
+D:\Andre\Projetos\DIO\desafio-dio-github-copilot\ValidadorCartao\obj\Debug\net10.0\ValidadorCartao.csproj.CoreCompileInputs.cache
+D:\Andre\Projetos\DIO\desafio-dio-github-copilot\ValidadorCartao\obj\Debug\net10.0\ValidadorCartao.sourcelink.json
+D:\Andre\Projetos\DIO\desafio-dio-github-copilot\ValidadorCartao\obj\Debug\net10.0\ValidadorCartao.dll
+D:\Andre\Projetos\DIO\desafio-dio-github-copilot\ValidadorCartao\obj\Debug\net10.0\refint\ValidadorCartao.dll
+D:\Andre\Projetos\DIO\desafio-dio-github-copilot\ValidadorCartao\obj\Debug\net10.0\ValidadorCartao.pdb
+D:\Andre\Projetos\DIO\desafio-dio-github-copilot\ValidadorCartao\obj\Debug\net10.0\ValidadorCartao.genruntimeconfig.cache
+D:\Andre\Projetos\DIO\desafio-dio-github-copilot\ValidadorCartao\obj\Debug\net10.0\ref\ValidadorCartao.dll
